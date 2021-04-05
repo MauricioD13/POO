@@ -1,0 +1,6 @@
+El método constructor en Python forma parte de la familia de Métodos
+Mágicos.
+    - Estrictamente __init__ no construye el objeto. El método que lo hace
+    es __new__ 
+    - Método __init__ personaliza la instanciación de la clase, por lo tanto 
+    será el primero que se ejecute cuando se cree un objeto
